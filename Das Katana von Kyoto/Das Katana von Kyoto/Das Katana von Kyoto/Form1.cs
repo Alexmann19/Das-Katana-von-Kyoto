@@ -62,9 +62,9 @@ namespace Das_Katana_von_Kyoto
             switch (game)
             {
                 case 1:
-                    rtbtext.Text = "Du schläfst und träumst von einem Katana mit einer Klinge aus Kristall. Plötzlich wachst du auf und hörst eine leise Stimme in deinem Kopf. Sie sagt, dass du heute auf den Statplatz gehen sollst, das whäre dein Schicksal.";
+                    rtbtext.Text = "Du schläfst und träumst von einem Katana mit einer Klinge aus Kristall. Plötzlich wachst du auf und hörst eine leise Stimme in deinem Kopf. Sie sagt, dass du heute auf den Stadtplatz gehen sollst. Dies sei dein Schicksal.";
                     tbwahl1.Text = "Du gehst zum Stadtplatz und guckst dich um.";
-                    tbwahl2.Text = "Du bist verwirrt wegen der Stimme und gehst zum Stadtplatz aber versteckst dich dort.";
+                    tbwahl2.Text = "Du bist verwirrt wegen der Stimme und gehst zum Stadtplatz, aber versteckst dich dort.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 2;
                     wahl2 = 3;
@@ -74,8 +74,8 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 2:
-                    rtbtext.Text = "Du bist am Stadtplatz von Kyoto angekommen. Er ist sehr groß und es tummeln sich sehr viele Menschen dort. Plötzlich hörst du die Stimme wieder die sagt, dass dich in 10 Minuten ein Mädchen namens Sakura ansprechen wird und eine Aufgabe für dich hat.";
-                    tbwahl1.Text = "Ahh..., ich bin doch kein Abenteurer. Du leufst weg.";
+                    rtbtext.Text = "Du bist am Stadtplatz von Kyoto angekommen. Er ist sehr groß und es tummeln sich sehr viele Menschen dort. Plötzlich hörst du die Stimme wieder, welche sagt, dass dich in 10 Minuten ein Mädchen namens Sakura ansprechen wird und eine Aufgabe für dich hat.";
+                    tbwahl1.Text = "Ahh..., ich bin doch kein Abenteurer. Du läufst weg.";
                     tbwahl2.Text = "Hmm..., man kann ja mal versuchen ihr zu helfen. Du wartest.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 4;
@@ -87,7 +87,7 @@ namespace Das_Katana_von_Kyoto
 
                 case 3:
                     rtbtext.Text = "Du versteckst dich auf dem Stadtplatz von Kyoto. Er ist sehr groß und es tummeln sich sehr viele Menschen dort. Plötzlich erscheint die seltsame Stimme wieder und sagt, dass du keine Angst haben musst und dich ein Mädchen namens Sakura wegen einer Aufgabe in 10 Minuten ansprechen wird";
-                    tbwahl1.Text = "Ahh..., du bekommst noch mehr Angst und flüchtest in richtung deines Hauses.";
+                    tbwahl1.Text = "Ahh..., du bekommst noch mehr Angst und flüchtest in Richtung deines Hauses.";
                     tbwahl2.Text = "Hmm..., man kann ja mal versuchen ihr zu helfen. Du wartest.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 4;
@@ -98,9 +98,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 4:
-                    rtbtext.Text = "Du flüchtest in Richung deines Hauses aber vor dir erstrahlt ein helles Licht. Du stoppst und und ein Mädchen mit langen schwarzen Haaren tritt aus dem Licht. Sie kommt auf dich zu und fragt dich warum du geflüchtet bist. Daruf sagt sie, dass sie möchte dass du auf die Suche nach dem Crystal Katana gehen musst, denn die Seele der rechtmäsigen Prinzessin Itaya wurde in dem Stein von Beruth versiegelt und nur das Katana kann den Stein zerstören und sie befreien.";
-                    tbwahl1.Text = "Wie? Die jetzige Prinzessin die bald über Japan herrscht ist nicht echt?";
-                    tbwahl2.Text = "Erzähle keinen Stuss das was du sagst kann doch nicht wahr sein, oder?";
+                    rtbtext.Text = "Du flüchtest in Richung deines Hauses aber vor dir erstrahlt ein helles Licht. Du stoppst und und ein Mädchen mit langen schwarzen Haaren tritt aus dem Licht. Sie kommt auf dich zu und fragt dich warum du geflüchtet bist. Darauf sagt sie, dass sie möchte, dass du auf die Suche nach dem Crystal Katana gehen musst, denn die Seele der rechtmäßigen Prinzessin Itaya wurde in dem Stein von Beruth versiegelt und nur das Katana kann den Stein zerstören und sie befreien.";
+                    tbwahl1.Text = "Wie? Die jetzige Prinzessin, die bald über Japan herrscht, ist nicht echt?";
+                    tbwahl2.Text = "Erzähle keinen Stuss. Das was du sagst kann doch nicht wahr sein, oder?";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 6;
                     wahl2 = 7;
@@ -110,9 +110,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 5:
-                    rtbtext.Text = "Du wartest 10 Minuten und ehe du dich versiehst sind alle Menschen verschwunden und irgendwie ist die Umgebung verzerrt. Plötzlich erscheint eine Lichtkugel am Himmel die vor dir landet. Ein Mädchen mit langen Schwarzen Haaren tritt aus dem Licht und sagt, dass sie Sakura heist. 10 Sekunden geschiet nichts. Aufeinmal sagt sie, dass dass du auf die Suche nach dem Crystal Katana gehen musst, denn die Seele der rechtmäsigen Prinzessin Itaya wurde in dem Stein von Beruth versiegelt und nur das Katana kann den Stein zerstören und sie befreien.";
-                    tbwahl1.Text = "Das ist schlimm, wenn die jetzige Prinzessin nicht echt ist herrscht ja bald die Falsche, oder?";
-                    tbwahl2.Text = "Ne erzähle doch keinen Unsinn das ist auf keinen Fall wahr, oder?";
+                    rtbtext.Text = "Du wartest 10 Minuten und ehe du dich versiehst, sind alle Menschen verschwunden und irgendwie ist die Umgebung verzerrt. Plötzlich erscheint eine Lichtkugel am Himmel, die vor dir landet. Ein Mädchen mit langen Schwarzen Haaren tritt aus dem Licht und sagt, dass sie Sakura heißt. 10 Sekunden geschieht nichts. Aufeinmal sagt sie, dass du auf die Suche nach dem Crystal Katana gehen musst, denn die Seele der rechtmäßigen Prinzessin Itaya wurde in dem Stein von Beruth versiegelt und nur das Katana kann den Stein zerstören und sie befreien.";
+                    tbwahl1.Text = "Das ist schlimm, wenn die jetzige Prinzessin nicht echt ist, herrscht ja bald die Falsche, oder?";
+                    tbwahl2.Text = "Ne, erzähle doch keinen Unsinn. Das ist auf keinen Fall wahr, oder?";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 6;
                     wahl2 = 7;
@@ -122,7 +122,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 6:
-                    rtbtext.Text = "Sakura sagt darauf, dass es leider wahr ist und die jetzige Prinzessin die Tochter des Dämonenkönigs Jintai ist und du getestet werden musst. Sie beschwört einen Schtten. Er greift dich an!";
+                    rtbtext.Text = "Sakura sagt darauf, dass es leider wahr ist und die jetzige Prinzessin die Tochter des Dämonenkönigs Jintai ist und du getestet werden musst. Sie beschwört einen Schatten. Er greift dich an!";
                     tbwahl1.Text = "-";
                     tbwahl2.Text = "-";
                     tbyen.Text = Convert.ToString(yen);
@@ -139,7 +139,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 7:
-                    rtbtext.Text = "Sakura sagt: \"Man kann es nicht verleugnen die Zeichen sind überall. Die jetzige Prinzessin ist eine Fälschung. Sie ist die Tochter des Dämonenkönigs Jintai. Du musst vorbereitet sein darum teste ich dich jetzt.\" Sie beschwört einen Schtten. Er greift dich an!";
+                    rtbtext.Text = "Sakura sagt: \"Man kann es nicht verleugnen die Zeichen sind überall. Die jetzige Prinzessin ist eine Fälschung. Sie ist die Tochter des Dämonenkönigs Jintai. Du musst vorbereitet sein, darum teste ich dich jetzt.\" Sie beschwört einen Schatten. Er greift dich an!";
                     tbwahl1.Text = "-";
                     tbwahl2.Text = "-";
                     tbyen.Text = Convert.ToString(yen);
@@ -156,9 +156,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 8:
-                    rtbtext.Text = "Sakra schaut dich stahlend an und sagt:\"Du konntest einen Schatten der Finsternis besiegen in dir fliest fürwahr besonders Blut.\" Sie atemt tief durch und sagt: \"Ich werde dich begleiten. denn ich bin eine Magierin und kann dich so unterstützen. Aber du entscheidest den Weg denn du hast die Gabe. Willst du zuerst in Richtung Norden, zum Gebirge der Meditation oder willst du Richtung Osten, zum Wald der Seelen?\"";
-                    tbwahl1.Text = "Ich wusste garnicht das ich so Besonders bin. Ich glaube das wir zum Gebirge gehen sollten. Da sind die Mönche.";
-                    tbwahl2.Text = "Habe ich das gerade wirklich gemacht? Aber ich glaube wir sollten die Geister um hilfe bitten. Ich wäre für den Wald.";
+                    rtbtext.Text = "Sakura schaut dich strahlend an und sagt:\"Du konntest einen Schatten der Finsternis besiegen. In dir fließt fürwahr besonders Blut.\" Sie atmet tief durch und sagt: \"Ich werde dich begleiten, denn ich bin eine Magierin und kann dich so unterstützen. Aber du entscheidest den Weg, denn du hast die Gabe. Willst du zuerst in Richtung Norden, zum Gebirge der Meditation, oder willst du Richtung Osten, zum Wald der Seelen?\"";
+                    tbwahl1.Text = "Ich wusste garnicht, dass ich so besonders bin. Ich glaube, dass wir zum Gebirge gehen sollten. Da sind die Mönche.";
+                    tbwahl2.Text = "Habe ich das gerade wirklich gemacht? Ich glaube wir sollten die Geister um Hilfe bitten. Ich wäre für den Wald.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 25;
                     wahl2 = 9;
@@ -168,9 +168,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 9:
-                    rtbtext.Text = "Ihr seid auf dem weg zum Wald der Seelen. Ihr seid schon 4 Stunden am Laufen. Plötzlich erscheint ein Kleines Dorf. Es sieht sehr Altertühmlich aus. Sakura fragt dich ob du dehin möchtest.";
-                    tbwahl1.Text = "Du überlegst. Hmm... ich glaube es währe sinnvoll unsere Vorräte aufzustocken. Gehen wir hin.";
-                    tbwahl2.Text = "Du überlegst. Hmm... ich glaube es währe besser weiter zu gehen wir wissen nicht ob sie uns freundlich gesinnt sind.";
+                    rtbtext.Text = "Ihr seid auf dem Weg zum Wald der Seelen. Ihr seid schon 4 Stunden am Laufen. Plötzlich erscheint ein Kleines Dorf. Es sieht sehr altertümlich aus. Sakura fragt dich, ob du dahin möchtest.";
+                    tbwahl1.Text = "Du überlegst. Hmm..., ich glaube es wäre sinnvoll unsere Vorräte aufzustocken. Gehen wir dort hin.";
+                    tbwahl2.Text = "Du überlegst. Hmm..., ich glaube es wäre besser weiter zu gehen. Wir wissen nicht, ob sie uns freundlich gesinnt sind.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 10;
                     wahl2 = 16;
@@ -180,9 +180,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 10:
-                    rtbtext.Text = "Ihr geht zum Dorf und guckt euch um. Ihr seht eine Taverne und tretet ein. Ihr bestellt ein Glaß Sake und der Wirt sagt: \"Ihr seht wie Abenteurer aus. Wollt ihr dieses Schwert kaufen? Es kostet nur 10 yen?\"";
-                    tbwahl1.Text = "Du überlegst. Es währe sinvoll sich besser auszurüsten. Dises \"Buttermesser\" taugt zu nix. Ich nehme es.";
-                    tbwahl2.Text = "Du überlegst. Nein wir müssen sparen. Wir haben nur wenig Geld und villeicht brauchen wir das irgendwann noch.";
+                    rtbtext.Text = "Ihr geht zum Dorf und schaut euch um. Ihr seht eine Taverne und tretet ein. Ihr bestellt ein Glas Sake und der Wirt sagt: \"Ihr seht wie Abenteurer aus. Wollt ihr dieses Schwert kaufen? Es kostet nur 10 Yen?\"";
+                    tbwahl1.Text = "Du überlegst. Es wäre sinvoll sich besser auszurüsten. Dieses \"Buttermesser\" taugt zu nichts. Ich nehme es.";
+                    tbwahl2.Text = "Du überlegst. Nein wir müssen sparen. Wir haben nur wenig Geld und vielleicht brauchen wir das irgendwann noch.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 11;
                     wahl2 = 12;
@@ -192,7 +192,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 11:
-                    rtbtext.Text = "Du kaufst das Schwert für 10 yen. (Dein Angriff steigt um 1) Als ihr die Taverne verlässt seht ihr eine arme Frau auf dem Boden liegen. Zwei vermummte Personen schlagen auf sie ein. Du eilst ihr zu hilfe!";
+                    rtbtext.Text = "Du kaufst das Schwert für 10 Yen. (Dein Angriff steigt um 1) Als ihr die Taverne verlasst, seht ihr eine arme Frau auf dem Boden liegen. Zwei vermummte Personen schlagen auf sie ein. Du eilst ihr zu Hilfe!";
                     tbwahl1.Text = "-";
                     tbwahl2.Text = "-";
                     yen = yen - 10;
@@ -211,7 +211,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 12:
-                    rtbtext.Text = "Du kaufst das Schwert nicht und ihr verlasst die Tavevrne. Als ihr die Taverne verlässt seht ihr eine arme Frau auf dem Boden liegen. Zwei vermummte Personen schlagen auf sie ein. Du eilst ihr zu hilfe!";
+                    rtbtext.Text = "Du kaufst das Schwert nicht und ihr verlasst die Tavevrne. Als ihr die Taverne verlasst, seht ihr eine arme Frau auf dem Boden liegen. Zwei vermummte Personen schlagen auf sie ein. Du eilst ihr zu Hilfe!";
                     tbwahl1.Text = "-";
                     tbwahl2.Text = "-";
                     yen = yen - 10;
@@ -229,9 +229,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 13:
-                    rtbtext.Text = "Du gewinnst gegen die Gestalten. Du hilst der armen Frau hoch und sie sagt: \"Danke werter Herr, sie sind ein Held. Diese vermummten Personen sind Ninjas aus dem Schloss des Königs. Man sagt das seit einem Monat die Königsfamilie sich sehr seltsam verhält und sie ihre Schergen auf uns hetzen um uns Mundtod zu machen!\"";
-                    tbwahl1.Text = "Das ist ja schlimm. Überhaubt weist du was über das Crystall Katana. Wir benötigen dieses dringend.";
-                    tbwahl2.Text = "Du denkst *Hmm.. so schlimm ist das schon geworden wir Brauchen das Katana dringend*. Hoffe es geht dir besser. Überhaubt weist du was über das Crystall Katana.";
+                    rtbtext.Text = "Du gewinnst gegen die Gestalten. Du hilfst der armen Frau hoch und sie sagt: \"Danke werter Herr, sie sind ein Held. Diese vermummten Personen sind Ninjas aus dem Schloss des Kaisers. Man sagt, dass die Königsfamilie sich seit einem Monat sehr seltsam verhält und sie ihre Schergen auf uns hetzen, um uns mundtot zu machen!\"";
+                    tbwahl1.Text = "Das ist ja schlimm. Überhaubt, weißt du was über das Crystall Katana? Wir benötigen dieses dringend.";
+                    tbwahl2.Text = "Du denkst *Hmm.., so schlimm ist es schon geworden. Wir brauchen das Katana dringend*. Hoffe es geht dir besser. Überhaubt, weißt du was über das Crystall Katana.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 14;
                     wahl2 = 14;
@@ -241,8 +241,8 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 14:
-                    rtbtext.Text = "Die arme Frau guckt verwirrt und sagt: \"Von so einem Katana habe ich noch nie gehört aber vileicht wissen die Geister mehr. Ihr solltet sie im Wald aufsuchen.\" Sie überlegt ein paar Minuten gibt dir einen seltsamen Stein und sagt: \"Das ist ein Stein des Lebens wenn du Sterben solltest regeneriert sich dein Körper komlett und deine Seele fährt wieder in deinen Körper ein.\"";
-                    tbwahl1.Text = "Danke das ist sehr nett. Ich werde ihn weise benutzen.";
+                    rtbtext.Text = "Die arme Frau guckt verwirrt und sagt: \"Von so einem Katana habe ich noch nie gehört, aber vielleicht wissen die Geister mehr. Ihr solltet sie im Wald aufsuchen.\" Sie überlegt ein paar Minuten, gibt dir einen seltsamen Stein und sagt: \"Das ist ein Stein des Lebens, wenn du sterben solltest, regeneriert sich dein Körper komplett und deine Seele fährt wieder in deinen Körper ein.\"";
+                    tbwahl1.Text = "Danke, das ist sehr nett. Ich werde Ihn weise benutzen.";
                     tbwahl2.Text = "-";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 15;
@@ -253,8 +253,8 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 15:
-                    rtbtext.Text = "Ihr verlasst das Dorf und geht in Richtung Wald. ... Nach zwei weiteren Stunden erreicht ihr den Wald. Ihr fühlt das ihr beobachtet werdet.";
-                    tbwahl1.Text = "Sakura, irgendwas beobachtet mich kennst du einen Aufspürzauber.";
+                    rtbtext.Text = "Ihr verlasst das Dorf und geht in Richtung Wald. ... Nach zwei weiteren Stunden erreicht ihr den Wald. Ihr fühlt, dass ihr beobachtet werdet.";
+                    tbwahl1.Text = "Sakura, irgendwas beobachtet mich. Kennst du einen Aufspürzauber?";
                     tbwahl2.Text = "Du ignorierst das Gefühl und gehst weiter.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 17;
@@ -266,8 +266,8 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 16:
-                    rtbtext.Text = "Ihr geht nicht ins Dorf und geht direkt zum Wald. ... Nach zwei weiteren Stunden erreicht ihr den Wald. Ihr fühlt das ihr beobachtet werdet.";
-                    tbwahl1.Text = "Sakura, irgendwas beobachtet mich kennst du einen Aufspürzauber.";
+                    rtbtext.Text = "Ihr geht nicht ins Dorf, sondern direkt zum Wald. ... Nach zwei weiteren Stunden erreicht ihr den Wald. Ihr fühlt, dass ihr beobachtet werdet.";
+                    tbwahl1.Text = "Sakura, irgendwas beobachtet mich. Kennst du einen Aufspürzauber?";
                     tbwahl2.Text = "Du ignorierst das Gefühl und gehst weiter.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 17;
@@ -278,9 +278,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 17:
-                    rtbtext.Text = "Sakura wirkt einen Aufspührzauber. Ein Lichtstrahl weist zu einer Lichtung. Ihr geht hin. Auf der Lichtung sitzt ein kleines Wesen das aussieht wie eine Katze nur Menschlcher aber kleiner als ein Erwachsender. Es könte noch ein Kind sein. Es kommt schüchtern auf dich zu und fragt: \"Was wollt ihr in diesem Wald? Dieser ist ein Ort für uns Katzengeister. Mein Vater wird nicht erfreut sein das Menschen in unseren Wald gekommen sind.\"";
-                    tbwahl1.Text = "Wir wollen euch nicht Schaden. Wir suchen das Crystal Katana um Japan zu retten.";
-                    tbwahl2.Text = "Du machst mit keine Angst wir sind auf der Suche nach was wichtigem. Niemand hält uns auf.";
+                    rtbtext.Text = "Sakura wirkt einen Aufspührzauber. Ein Lichtstrahl weist zu einer Lichtung. Ihr geht hin. Auf der Lichtung sitzt ein kleines Wesen, welches aussieht, wie eine Katze, nur menschlicher, jedoch kleiner als ein Erwachsender. Es könnte noch ein Kind sein. Es kommt schüchtern auf dich zu und fragt: \"Was wollt ihr in diesem Wald? Dieser ist ein Ort für uns Katzengeister. Mein Vater wird nicht erfreut sein, dass Menschen in unseren Wald gekommen sind.\"";
+                    tbwahl1.Text = "Wir wollen euch nicht schaden. Wir suchen das Crystal Katana um Japan zu retten.";
+                    tbwahl2.Text = "Du machst mir keine Angst. Wir sind auf der Suche nach etwas Wichtigem. Niemand hält uns auf.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 19;
                     wahl2 = 18;
@@ -297,7 +297,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 19:
-                    rtbtext.Text = "Das Kind erschrickt ind sagt erstaunt: \"D... D... Das Crystal Katana. Das ist ein heiliges Schwert das nur der Auserwählte Krieger führen kann. Komm mein Vater will dich bestimmt sehen.\"";
+                    rtbtext.Text = "Das Kind erschrickt und sagt erstaunt: \"D... D... Das Crystal Katana. Das ist ein heiliges Schwert, welches nur der auserwählte Samurai führen kann. Komm, mein Vater will dich bestimmt sehen.\"";
                     tbwahl1.Text = "Du gehst mit dem Jungen und bist gespannt auf die Geschichte des Katanas";
                     tbwahl2.Text = "-";
                     tbyen.Text = Convert.ToString(yen);
@@ -309,9 +309,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 20:
-                    rtbtext.Text = "Ihr geht eine Zeit durch den Wald. Plötzlch siehst du einen See wo ein älteres katzenähnliches Wesen mit einem langen Bart. Als ihr vor ihm steht sagt er: \"Ich weis warum du hier bist. Du bist derjenige der von der Seele der Prinzessin geleitet wird. Du suchst das Katana um sie zu befreien. Das ist aber noch nicht alles. Du musst den Dämonenkönig Jintai toten das ist dein Schicksal.\"";
-                    tbwahl1.Text = "Wenn das mein Schiksal ist kann ich mich dem nicht wiedersetzen aber ich habe keine Kampferfahrung.";
-                    tbwahl2.Text = "Ähhh... Ich den Dämonenkönig töten, das ist doch wohl ein witz oder, ich kann das nicht.";
+                    rtbtext.Text = "Ihr geht eine Zeit durch den Wald. Plötzlch siehst du einen See, an dem ein älteres katzenähnliches Wesen mit einem langen Bart steht. Als ihr vor ihm steht sagt er: \"Ich weiß, warum du hier bist. Du bist derjenige, der von der Seele der Prinzessin geleitet wird. Du suchst das Katana um Sie zu befreien. Das ist aber noch nicht alles. Du musst den Dämonenkönig Jintai töten. Dies ist dein Schicksal.\"";
+                    tbwahl1.Text = "Wenn dies mein Schicksal ist, kann ich mich dem nicht wiedersetzen, aber ich habe keine Kampferfahrung.";
+                    tbwahl2.Text = "Ähhh..., ich den Dämonenkönig töten? Das ist doch wohl ein Witz, oder? Ich kann das nicht.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 24;
                     wahl2 = 23;
@@ -321,7 +321,7 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 21:
-                    rtbtext.Text = "Ihr ignoriert das Gefühl und geht weiter. Nch einiger Zeit Seht ihr einen See wo ein älteres katzenähnliches Wesen mit einem Langen Bart steht. Plötzlich greifen dich Wachen an. Du wehrst dich.";
+                    rtbtext.Text = "Ihr ignoriert das Gefühl und geht weiter. Nach einiger Zeit seht ihr einen See, an dem ein älteres katzenähnliches Wesen mit einem langen Bart steht. Plötzlich greifen dich Wachen an. Du wehrst dich.";
                     tbwahl1.Text = "-";
                     tbwahl2.Text = "-";
                     tbyen.Text = Convert.ToString(yen);
@@ -338,9 +338,9 @@ namespace Das_Katana_von_Kyoto
                     break;
 
                 case 22:
-                    rtbtext.Text = "Du gewinnst gegen die Wachen. Plötzlich ertönt eine tiefe aber freundliche Stimme die Sagt: \"Last sie durch er ist was Besonderes\" Als ihr vor ihm steht sagt er: \"Ich weis warum du hier bist. Du bist derjenige der von der Seele der Prinzessin geleitet wird. Du suchst das Katana um sie zu befreien. Das ist aber noch nicht alles. Du musst den Dämonenkönig Jintai toten das ist dein Schicksal.\"";
-                    tbwahl1.Text = "Wenn das mein Schiksal ist kann ich mich dem nicht wiedersetzen aber ich habe keine Kampferfahrung.";
-                    tbwahl2.Text = "Ähhh... Ich den Dämonenkönig töten, das ist doch wohl ein witz oder, ich kann das nicht.";
+                    rtbtext.Text = "Du gewinnst gegen die Wachen. Plötzlich ertönt eine tiefe, aber freundliche Stimme, die sagt: \"Lasst sie durch. Er ist etwas Besonderes!\" Als ihr vor ihm steht sagt er: \"Ich weiß, warum du hier bist. Du bist derjenige, der von der Seele der Prinzessin geleitet wird. Du suchst das Katana um sie zu befreien. Das ist aber noch nicht alles. Du musst den Dämonenkönig Jintai töten. Dies ist dein Schicksal.\"";
+                    tbwahl1.Text = "Wenn dies mein Schiksal ist, kann ich mich dem nicht wiedersetzen, aber ich habe keine Kampferfahrung.";
+                    tbwahl2.Text = "Ähhh..., ich den Dämonenkönig töten? Das ist doch wohl ein Witz, oder? Ich kann das nicht.";
                     tbyen.Text = Convert.ToString(yen);
                     wahl1 = 24;
                     wahl2 = 23;
