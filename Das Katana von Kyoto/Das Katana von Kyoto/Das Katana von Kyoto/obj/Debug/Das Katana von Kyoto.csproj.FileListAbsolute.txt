@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\bin\Debug\Das Katana von Kyoto.exe.config
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\bin\Debug\Das Katana von Kyoto.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\bin\Debug\Das Katana von Kyoto.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das_Katana_von_Kyoto.Form1.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das_Katana_von_Kyoto.Properties.Resources.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\bin\Debug\Das Katana von Kyoto.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\bin\Debug\Das Katana von Kyoto.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\Das Katana von Kyoto\obj\Debug\Das Katana von Kyoto.application
